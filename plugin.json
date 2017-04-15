@@ -1,0 +1,14 @@
+{
+    "name": "Mobile Switch",
+    "description": "Switch mobile devices to AMP pages",
+    "version": "1.0.0",
+    "requires": "1.2.0",
+    "author": "Marc",
+    "license": "GPLv3",
+    "link": "https://www.leafpub.org/",
+    "isAdminPlugin": false,
+    "isMiddleware": true,
+    "isWidget": false,
+    "image": "",
+    "routes": []
+}
